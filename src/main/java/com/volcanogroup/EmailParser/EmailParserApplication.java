@@ -8,6 +8,7 @@ public class EmailParserApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EmailParserApplication.class, args);
+		System.out.println("Appliaction has been run successfully!");
 	}
 
 	
